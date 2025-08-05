@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/musa-g%C3%BCm%C3%BC%C5%9F-317371360/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:musa@musagumus.dev">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
